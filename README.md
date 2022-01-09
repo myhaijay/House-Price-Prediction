@@ -1,7 +1,7 @@
 # House-Price-Prediction
 
 
-![https://github.com/myhaijay/House-Price-Prediction/tree/main/Images]
+![](https://github.com/myhaijay/House-Price-Prediction/blob/main/Images/Image.JPG)
 #### Problem Statement/ Business Objective
 As an analyst for a real estate company, build a model that will predict the price of a house based on features provided in the dataset. Senior management also wants to explore the characteristics of the houses using some business intelligence tools. One of those parameters includes understanding which factors are responsible for higher property value - $650K and above.
 
