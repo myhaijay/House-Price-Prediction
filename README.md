@@ -13,7 +13,7 @@ Given the dataset of Properties (houses) that were sold between 2014 and 2015 in
 * Data importation and exploration
 * Data wrangling and cleaning
 * Build the model
-* Improve model by data extration and feature engineering
+* Improve model by data extraction and feature engineering
 * Analyze model result
 
 #### Specific Interest
