@@ -20,7 +20,7 @@ Given the dataset of Properties (houses) that were sold between 2014 and 2015 in
 * Price of houses above 650k
 
 
-In this project I workded with MySQL and Tableau to understand the data set before proceeding to Python in building the model.
+In this project I worked with MySQL and Tableau to understand the data set before proceeding to Python in building the model.
 
 ## File Structure
 * "Data-for-Project" folder contains:
